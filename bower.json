@@ -9,17 +9,6 @@
   "authors": [
     "Ganesan Inc"
   ],
-  
-  "license": "SEE LICENSE IN README.md",
-	
-
-  "ignore": [
-
-    ".npmignore",
-
-    "package.json"
-
-  ],
 
   "dependencies": {
 	
